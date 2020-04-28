@@ -11,11 +11,12 @@ Contains all the first question answers from lesson 5 homework: [gamedev-5780](h
 
 ## 1 Oscillator
 
-Moves the pendulum.
-The user can add his own values to:
-- `Position x, y` -  The user can choose the starting position of the object.
-- `Distance` - The distance from point x.
-- `Speed` - The speed of the rotation.
+Moves the object from one point to another. the user can choose in which
+way the object will move on the x and y axis. The speed will slow down as the object gets closer to the endpoints.
+- `Min Speed` - The minimun speed of the object. 
+- `Max Speed` - The maximun speed of the object.
+- `X Distance` - The distance of the object from its endpoints on the x axis.
+- `Y Distance` - The distance of the object from its endpoints on the y axis.
 
 <img src="Images/q1.png" width=400> <img src="Images/1.1.png" width=400>
 
