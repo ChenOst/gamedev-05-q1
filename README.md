@@ -7,7 +7,7 @@ Contains all the first question answers from lesson 5 homework: [gamedev-5780](h
 
 [Enna Grigor](https://github.com/ennagrigor)
 
-<img src="Images/allQuestions.png" width=400>
+<img src="Images/world.png" width=400>
 
 ## 1 Oscillator
 
@@ -17,7 +17,7 @@ The user can add his own values to:
 - `Distance` - The distance from point x.
 - `Speed` - The speed of the rotation.
 
-<img src="Images/q1.png" width=400>
+<img src="Images/q1.png" width=400> <img src="Images/1.1.png" width=400>
 
 ## 2 Rotator
 
@@ -47,4 +47,4 @@ The user can add his own values to:
 - `Radius` - The distance between the current x position to the center of the circle.
 (The center of the circle is positionX + radius).
 
-<img src="Images/q4.png" width=400>
+<img src="Images/q4.1.png" width=400> <img src="Images/q4.2.png" width=400>
