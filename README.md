@@ -13,10 +13,8 @@ Contains all the first question answers from lesson 5 homework: [gamedev-5780](h
 
 Moves the pendulum.
 The user can add his own values to:
-- `Position x, y, z` - The user can choose the starting position of the object,
- by setting value to the X axis, Y axis and Z axis.
-- `Direction` - The direction in which the pendulum will rotate.
-- `Angle` - The angle of the rotation, the angle value can be between 0 and 90.
+- `Position x, y` -  The user can choose the starting position of the object.
+- `Distance` - The distance from point x.
 - `Speed` - The speed of the rotation.
 
 <img src="Images/q1.png" width=400>
