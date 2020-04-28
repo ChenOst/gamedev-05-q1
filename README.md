@@ -17,6 +17,7 @@ way the object will move on the x and y axis. The speed will slow down as the ob
 - `Max Speed` - The maximun speed of the object.
 - `X Distance` - The distance of the object from its endpoints on the x axis.
 - `Y Distance` - The distance of the object from its endpoints on the y axis.
+- `Slow Down Distance` - The distance from the endpoint where the object starts to slow down.
 
 <img src="Images/q1.png" width=400> <img src="Images/1.1.png" width=400>
 
